@@ -3,6 +3,8 @@
 
 Status: Demo version has been released. (Full version is working in progress.)
 
+https://dply.me/df87o4
+
 Wiki: https://github.com/tqm-dev/MobileNodeProject/wiki
 
 Snapshot: https://drive.google.com/drive/folders/1C8y15BbHL1xpwjPQQTQXRjCt3Oz4M0nr?usp=share_link
